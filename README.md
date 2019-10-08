@@ -4,6 +4,7 @@ Poker Hands
 
 Markham Meredith
 
+Reads a line of input and checks if a valid poker hand.
 
 To run the code, open 'main.py' and run the program, Enter your input into the stdin and press ctr+d once all input you want to check is finished to get the output.
 
